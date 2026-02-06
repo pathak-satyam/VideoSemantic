@@ -22,8 +22,8 @@ pip install git+https://github.com/PKU-YuanGroup/Video-LLaVA.git
 ```
 VideoSemantic/
 ├── src/
-│   ├── semantic_analyzer.py
-│   ├── quick_start.py
+│   ├── semantic_analyzer.py 
+│   ├── quick_start.py (still in the process)
 │   └── test_setup.py
 ├── data/
 │   ├── input_videos/
